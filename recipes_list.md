@@ -1,7 +1,7 @@
 # Recipes
 
-- **Brauny**
+- [**Brauny**](brownie.md)
 - Bananas pancake
 - Potatos "aidaho"
-- **Bananas bread**
-- **Тыква, запеченная с медом**
+- [**Bananas bread**](bananas.md)
+- [**Тыква, запеченная с медом**](dovleac.md)
