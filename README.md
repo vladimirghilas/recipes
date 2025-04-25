@@ -9,4 +9,3 @@
 -deserts
 	- [Bananas bread](bananas.md)
 	- [Тыква, запеченная с медом](dovleac.md)
->>>>>>> marked-list
